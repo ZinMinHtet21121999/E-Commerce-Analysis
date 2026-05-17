@@ -1,4 +1,4 @@
-# E-Commerce-Analysis
+# E-Commerce Sales Analysis
 
 ## Overview 
 Analysis of E-Commerce sales data to identify revenue trends, customer behavior, product performance and regional insights. 
@@ -9,11 +9,11 @@ Analysis of E-Commerce sales data to identify revenue trends, customer behavior,
 - Jupyter Notebook
 
 ## Dataset 
-- project.csv - Raw Dataset 
+- preproject.csv - Raw Dataset 
 - clean_project_data.csv - Cleaned Dataset
 
 ## Key Findings 
-- Monthly seales trend shows seasonal patterns
+- Monthly sales trend shows seasonal patterns
 - Revenue varies significantly across regions
 - Top 10 customers contribute major revenue share
 - Top 10 products drive most sales
